@@ -1,0 +1,26 @@
+{
+  "name": "library_management_system",
+  "version": "1.0.0",
+  "description": "This is a library management API Backend for the management of users and the books",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev" : "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akashdas001/Library_Management_System.git"
+  },
+  "author": "Akash Das",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akashdas001/Library_Management_System/issues"
+  },
+  "homepage": "https://github.com/Akashdas001/Library_Management_System#readme",
+  "dependencies": {
+    "express": "^4.22.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
