@@ -43,6 +43,14 @@
       "email": "user@email.com",
       "subscriptionType": "Premium",
       "subscriptionDate": "01/01/2022"
+    },
+    {
+      "id": "4",
+      "name": "Jane",
+      "surname": "Doe",
+      "email": "user@email.com",
+      "subscriptionType": "Premium",
+      "subscriptionDate": "01/01/2022"
     }
   ]
 }
